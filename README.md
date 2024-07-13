@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **minkevishal@gmail.com**
 
-- 📄 Know about my experiences [0-1 years](0-1 years)
+- 📄 Know about my experiences [0-1 years]
 
 - ⚡ Fun fact **I think I am funny**
 
