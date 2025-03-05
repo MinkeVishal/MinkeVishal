@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minkevishal&label=Profile%20views&color=0e75b6&style=flat" alt="minkevishal" /> </p>
 
-- 🔭 I’m currently working on **Zerodha Clone**
+- 🔭 I’m currently working on **chatgptClone AI**
 
 - 🌱 I’m currently learning **MERN Developer**
 
