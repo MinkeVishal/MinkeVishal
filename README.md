@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minkevishal&label=Profile%20views&color=0e75b6&style=flat" alt="minkevishal" /> </p>
 
-- 🔭 I’m currently working on **chatgptClone AI**
+- 🔭 I’m currently working on **EDA Project and PowerBI**
 
-- 🌱 I’m currently learning **MERN Developer**
+- 🌱 I’m currently learning **Data Science**
 
-- 🤝 I’m looking for help with **React.js Frontend Project**
+- 🤝 I’m looking for help with **React.js Frontend Project || Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MinkeVishal?tab=overview&from=2023-07-01&to=2023-07-31](https://github.com/MinkeVishal?tab=overview&from=2023-07-01&to=2023-07-31)
 
-- 💬 Ask me about **ReactJs expressJs, NodeJs, MongoDB JavaScript**
+- 💬 Ask me about **ReactJs, SQL, Python, PowerBI, AI/ML**
 
 - 📫 How to reach me **minkevishal@gmail.com**
 
