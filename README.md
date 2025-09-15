@@ -39,6 +39,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minkevishal&show_icons=true&locale=en&layout=compact" alt="minkevishal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minkevishal&show_icons=true&locale=en" alt="minkevishal" /></p>
+<p>&nbsp;<img align="center" src="(https://vishalminke.me/)" alt="minkevishal" /></p>
 
-<p><img align="center" src="(https://vishalminke.me/)/?user=minkevishal&" alt="minkevishal" /></p>
