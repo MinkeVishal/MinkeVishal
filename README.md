@@ -40,5 +40,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minkevishal&show_icons=true&locale=en&layout=compact" alt="minkevishal" /></p>
 
-<p>Vishal's GitHub Stats<img align="left" src="https://github-readme-stats.vercel.app/api?username=MinkeVishal&show_icons=true&hide_title=true" alt="Vishal's GitHub stats" /></p>
+**GitHub Stats** <img align="left" src="https://github-readme-stats.vercel.app/api?username=MinkeVishal&show_icons=true&hide_title=true" alt="Vishal's GitHub stats" />
 
