@@ -39,6 +39,6 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minkevishal&show_icons=true&locale=en&layout=compact" alt="minkevishal" /></p>
-## GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=MinkeVishal&show_icons=true&hide_title=true" alt="Vishal's GitHub stats" />
+
+<p>Vishal's GitHub Stats<img align="left" src="https://github-readme-stats.vercel.app/api?username=MinkeVishal&show_icons=true&hide_title=true" alt="Vishal's GitHub stats" /></p>
 
