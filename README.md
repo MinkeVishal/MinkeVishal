@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm vishal</h1>
-<h3 align="center">A passionate frontend developer from Chh. Sambhajinagar</h3>
+<h3 align="center">A passionate Full Stack developer from Chh. Sambhajinagar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minkevishal&label=Profile%20views&color=0e75b6&style=flat" alt="minkevishal" /> </p>
 
-- 🔭 I’m currently working on **AI/ML**
+- 🔭 I’m currently working on **Full Stack Developer**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Python**
 
 - 🤝 I’m looking for help with **React.js Frontend Project || Data Science**
 
 - 👨‍💻 All of my projects are available at https://github.com/MinkeVishal?tab=repositories
 
-- 💬 Ask me about **ReactJs, SQL, Python, PowerBI, AI/ML**
+- 💬 Ask me about **ReactJs, SQL, Python**
 
 - 📫 How to reach me **minkevishal@gmail.com**
 
